@@ -1,3 +1,8 @@
+npm i primevue
+npm install @primevue/themes
+npm i axios
+
+
 # to-do Landing Page
 ![image](https://github.com/user-attachments/assets/9735411b-e865-4728-bc18-80d1a7fad56f)
 # to-do Task Page
